@@ -1,0 +1,1 @@
+export default DB = 'mongodb://localhost:27017/english_app';
